@@ -13,22 +13,29 @@ Graduanda em <b>Análise e Desenvolvimento de Sistemas</b>, com experiência pr�
 ## Stack, Ferramentas e Habilidades
 
 <p>
-  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" width="40" style="object-fit: cover" title="HTML" />
-  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" width="40" style="object-fit: cover" title="CSS" />
-  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" width="40" style="object-fit: cover" title="JavaScript" />
-  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" width="40" style="object-fit: cover" title="TypeScript" />
-  <img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40" width="40" style="object-fit: cover" title="Node.js" />
-  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" width="40" style="object-fit: cover" title="React" />
-  <img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="40" width="40" style="object-fit: cover" title="AWS" />
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" width="40" style="object-fit: cover" title="Python" />
-  <br/>
-  <img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" width="40" style="object-fit: cover" title="SQL" />
-  <img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40" width="40" style="object-fit: cover" title="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="40" width="40" style="object-fit: cover" title="ETL" />
-  <img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" width="40" style="object-fit: cover" title="Power BI" />
-  <img src="https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40" width="40" style="object-fit: cover" title="Excel" />
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" width="40" style="object-fit: cover" title="Git" />
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="40" width="40" style="object-fit: cover" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,aws,py" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,figma,vercel,supabase" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20REST-6BA539?style=for-the-badge&logo=swagger&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/CODEX-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/CLAUDE%20-D97757?style=for-the-badge&logo=claudecode&logoColor=white" />
+<img src="https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/HELPDESK-FF7900?style=for-the-badge&logo=helpdesk&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/AFTER%20EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+<img src="https://img.shields.io/badge/SONY%20VEGAS-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CINEMA%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" />
 </p>
 
 ## Me contacte em:
