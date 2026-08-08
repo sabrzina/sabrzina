@@ -43,6 +43,11 @@ Graduanda em <b>Análise e Desenvolvimento de Sistemas</b>, com experiência pr�
 </p>
 <br />
 
-![snake animation](https://github.com/<sabrzina/<sabrzina>/blob/output/github-contribution-grid-snake2.svg)
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabrzina/sabrzina/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabrzina/sabrzina/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sabrzina/sabrzina/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
